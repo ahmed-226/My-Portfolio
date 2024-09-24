@@ -12,23 +12,23 @@ const About = () => {
                     </div>
                     <div></div>
                 </div>
-                <div className='max-w-[1000px] w-full grid grid-cols-2 gap-8'>
+                <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-bold'>
                         <p>Hi. I'm Ahemd Mahmoud, nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
-                        <p>
+                        <p className=' text-2xl mb-5'>
                             I am passionate about developing innovative solutions that enhance the digital experience for users.
                             I specialize in building web applications and software for a wide range of clients, from startups to established businesses.
                             Whether it's creating responsive websites or full-stack applications, I'm focused on delivering high-quality software that meets the needs of users.
                         </p>
                     </div>
-
                 </div>
-
             </div>
         </div>
+
     )
+    
 }
 
 export default About
