@@ -90,26 +90,22 @@ const Navbar = () => {
 
       <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
         <ul>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-[#6fc2b0]  '>
-            <a href="/" className='flex justify-between items-center w-full text-gray-300'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-[#6fc2b0]'>
+            <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedmhmouad41@gmail.com" className='flex justify-between items-center w-full text-gray-300'>
               Email <HiOutlineMail size={30} className='ml-2' />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-[#565f69]'>
-            <a href="/" className='flex justify-between items-center w-full text-gray-300'>
-              Facebook  <BsFillPersonLinesFill size={30} className='ml-2' />
-            </a>
-          </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300  bg-[#333333]'>
-            <a href="/" className='flex justify-between items-center w-full text-gray-300'>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-[#333333]'>
+            <a href="https://github.com/ahmed-226" className='flex justify-between items-center w-full text-gray-300'>
               Github <FaGithub size={30} className='ml-2' />
             </a>
           </li>
-          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-[#4d92d2] '>
-            <a href="/" className='flex justify-between items-center w-full text-gray-300'>
-              LinkedIN <FaLinkedin size={30} className='ml-2' />
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[0px] duration-300 bg-[#4d92d2]'>
+            <a href="https://www.linkedin.com/in/ahmed-mahmoud-5837b8253" className='flex justify-between items-center w-full text-gray-300'>
+              LinkedIn <FaLinkedin size={30} className='ml-2' />
             </a>
           </li>
+
         </ul>
       </div>
 
