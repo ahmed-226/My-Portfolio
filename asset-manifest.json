@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/https://github.com/ahmed-226/My-Portfolio/static/css/main.007f68d0.css",
+    "main.js": "/https://github.com/ahmed-226/My-Portfolio/static/js/main.b2292888.js",
+    "static/media/Scopedia.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/Scopedia.0d0f5c88ae775b070f9c.png",
+    "static/media/Chat-Ease.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/Chat-Ease.75e36716a8cf8745c497.png",
+    "static/media/Heart-care.jpg": "/https://github.com/ahmed-226/My-Portfolio/static/media/Heart-care.70144948d21a45fdaf27.jpg",
+    "static/media/Ahmed mahmoud.pdf": "/https://github.com/ahmed-226/My-Portfolio/static/media/Ahmed mahmoud.2f9e9afdc0c46de8252b.pdf",
+    "static/media/postgres.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/postgres.f2548564cc008ec40b7b.png",
+    "static/media/express.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/express.0e4b0a07fe9c9615d674.png",
+    "static/media/MUI.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/MUI.e872165747a99ec99d98.png",
+    "static/media/SMS.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/SMS.e7e7d985290d710d1ff7.png",
+    "static/media/react.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/Logo.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/Logo.155b140abbf957bfefa7.png",
+    "static/media/node.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/Hoo-Bank.jpeg": "/https://github.com/ahmed-226/My-Portfolio/static/media/Hoo-Bank.cc5603ac6dbb1f4347c0.jpeg",
+    "static/media/github.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/Rocket_Acme.jpeg": "/https://github.com/ahmed-226/My-Portfolio/static/media/Rocket_Acme.a26bb5c01b42694440a0.jpeg",
+    "static/media/html.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/https://github.com/ahmed-226/My-Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/https://github.com/ahmed-226/My-Portfolio/index.html",
+    "main.007f68d0.css.map": "/https://github.com/ahmed-226/My-Portfolio/static/css/main.007f68d0.css.map",
+    "main.b2292888.js.map": "/https://github.com/ahmed-226/My-Portfolio/static/js/main.b2292888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.007f68d0.css",
+    "static/js/main.b2292888.js"
+  ]
+}
